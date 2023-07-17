@@ -8,6 +8,9 @@ hidden=[".config"]
 [nix]
 channel = "stable-22_11"
 
+language="html"
+run=""
+
 [languages.html]
 pattern = "**/*.html"
   [languages.html.languageServer]
